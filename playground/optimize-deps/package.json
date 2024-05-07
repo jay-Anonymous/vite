@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^0.28.1",
     "clipboard": "^2.0.11",
     "dep-cjs-browser-field-bare": "file:./dep-cjs-browser-field-bare",
     "dep-cjs-compiled-from-cjs": "file:./dep-cjs-compiled-from-cjs",
