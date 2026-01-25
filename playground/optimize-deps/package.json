@@ -27,7 +27,7 @@
     "dep-with-optional-peer-dep": "file:./dep-with-optional-peer-dep",
     "dep-non-optimized": "file:./dep-non-optimized",
     "added-in-entries": "file:./added-in-entries",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "nested-exclude": "file:./nested-exclude",
     "phoenix": "^1.6.15",
     "react": "^18.2.0",
@@ -36,7 +36,7 @@
     "url": "^0.11.0",
     "vue": "^3.2.45",
     "vuex": "^4.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.clonedeep": "^4.5.0"
   },
   "devDependencies": {
